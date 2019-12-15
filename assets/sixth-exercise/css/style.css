@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.first-section {
+    text-align: center;
+    padding: 100px 0;
+    background: #EDEEF2;
+} /* First section preferences */
+
+.first-btn {
+    background-color: transparent;
+	border-radius: 5px;
+	border: 1px solid #000000;
+	font-size: 15px;
+    padding: 10px 30px;
+    margin: 0 10px;
+    cursor: pointer;
+} /* First button set preferences */
+
+.second-section {
+    text-align: center;
+    padding: 100px 0;
+    background: #7A88C9;
+} /* Second section preferences */
+
+.second-btn {
+    background-color: transparent;
+	border-radius: 30px;
+    border: 1px solid #ffffff;
+    color: white;
+	font-size: 12px;
+    padding: 10px 30px;
+    margin: 0 10px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    cursor: pointer;
+} /* Second button set preferences */
+
+.third-section {
+    text-align: center;
+    padding: 100px 0;
+    background: #36474E;
+} /* Third section preferences */
+
+.third-btn {
+    background-color: transparent;
+    border: 1px solid white;
+    color: #7A88C9;
+	font-size: 12px;
+    padding: 10px 30px;
+    margin: 0 10px;
+    cursor: pointer;
+} /* Third button set preferences */
