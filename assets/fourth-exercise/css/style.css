@@ -1,0 +1,30 @@
+.form {
+    border-style: outset;
+    border-color: #FFEEFF;
+}
+
+.user-form {
+background-color: #FFFFAA;
+color: red;
+font-size: 30px;
+}
+
+.bg-style {
+    background-color: #CCFFCC;
+    width: 97%;
+}
+
+.bg-form {
+    background-color: #00ccff;
+}
+
+.file-chosen {
+    background-color: #CCFFCC;
+}
+
+.buttons {
+    padding: 10px;
+    border: outset;
+    background-color: #CCFFCC;
+    width: 30%;
+}
